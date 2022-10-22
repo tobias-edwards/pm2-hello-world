@@ -1,0 +1,20 @@
+{
+  "name": "pm2-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobias-edwards/pm2-hello-world.git"
+  },
+  "author": "Tobias Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobias-edwards/pm2-hello-world/issues"
+  },
+  "homepage": "https://github.com/tobias-edwards/pm2-hello-world#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
